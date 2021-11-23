@@ -54,5 +54,26 @@ a {
   justify-content: center;
   align-items: center;
   height: 100vh;
+
   background-color: #222020;
+}
+
+.main-content h1{
+  color: white;
+  font-family: 'Graphik LCG', sans-serif;
+  padding-bottom: 30px;
+}
+
+.download-button{
+  color: white;
+  background-color: #2f1ce4;
+  margin: 20px;
+  border: 3px #2f1ce4;
+}
+
+.about-programm{
+  color: white;
+  background-color: transparent;
+  margin: 20px;
+  border: white 3px;
 }
